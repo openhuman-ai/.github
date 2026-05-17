@@ -8,6 +8,8 @@ Developers: https://developer.openhuman.ai
 
 Main website: https://openhuman.ai
 
+![OpenHuman Demo](./OpenHuman-Demo.png)
+
 Ours official channels:
 
 - GitHub: https://github.com/openhuman-ai
