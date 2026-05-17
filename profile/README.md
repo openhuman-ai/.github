@@ -1,18 +1,5 @@
+# OpenHuman - Open store for realistic digital human
 
-# OpenHuman - Open Store for Realistic Digital Human
+![OpenHuman Official Logo](./OpenHuman-Official.jpg)
 
-Website: https://openhuman.ai
-
-## Hi there 👋
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-
-🌈 Contribution guidelines - how can the community get involved?
-
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-
-🍿 Fun facts - what does your team eat for breakfast?
-
-🧙 Remember, you can do mighty things with the power of 
+OpenHuman AI - Open store for realistic digital human OpenHuman is an open platform for realistic digital humans and conversational AI interfaces designed to make artificial intelligence accessible through natural human interaction. Founded as an independent research initiative beginning in 2023, OpenHuman focuses on building lifelike AI characters that communicate through facial expression, voice, gesture, and language, enabling people to interact with AI as naturally as speaking to another person. The platform combines real-time 3D rendering, conversational AI, animation systems, speech processing, and facial expression technology into a unified runtime for creating interactive digital human
